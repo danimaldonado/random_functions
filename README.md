@@ -1,2 +1,3 @@
-# random_functions
-Random functions I tend to use
+# Random Functions
+
+WIP - Random functions I tend to use
